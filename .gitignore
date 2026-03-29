@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.expo/
+*.tsbuildinfo
+.DS_Store
+.env
+bun.lock
+package-lock.json
+
+# SQLite
+server/data/
+
+# IDE
+.idea/
+.vscode/
+*.swp

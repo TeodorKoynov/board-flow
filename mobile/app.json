@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "BoardFlow",
+    "slug": "boardflow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#6366F1"
+      }
+    }
+  }
+}
